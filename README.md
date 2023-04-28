@@ -1,2 +1,2 @@
-# django_coding_party_1
+# Django Coding Party 1
 Django project for a coding party
